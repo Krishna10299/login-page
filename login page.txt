@@ -1,0 +1,7 @@
+SIGN UP:
+Enter first name :
+Enter last name :
+Enter username :
+create password :
+confirm password :
+Sign-Up Successful.
